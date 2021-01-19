@@ -27,3 +27,5 @@ function buildImage() {
   img.src = images[index];
   document.getElementById('content').style.backgroundImage = (img);
 }
+
+   
